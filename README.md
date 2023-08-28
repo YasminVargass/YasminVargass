@@ -4,7 +4,9 @@
 - 🔭 I’m currently working on frontend
 - 🌱 I’m currently learning PHP and React
 - 😄 Pronouns: she/her
-  
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasminVargass&layout=compact)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yasmin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
