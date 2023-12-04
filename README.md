@@ -1,7 +1,7 @@
 ## Hello! I am Yasmin Vargas 👋
 
 
-- 🔭 I’m currently working on frontend
+- 🔭 I’m currently working on fullstack
 - 🌱 I’m currently learning C#
 - 😄 Pronouns: she/her
 
