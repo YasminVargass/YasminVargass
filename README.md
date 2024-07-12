@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on fullstack
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning DevOps
 - 😄 Pronouns: she/her
 
 
