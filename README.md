@@ -1,8 +1,7 @@
 ## Hello! I am Yasmin Vargas 👋
 
 
-- 🔭 I’m currently working on fullstack
-- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working on DevOps
 - 😄 Pronouns: she/her
 
 
